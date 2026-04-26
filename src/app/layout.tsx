@@ -7,8 +7,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lumos App",
-  description: "Built with create-lumos-app",
+  title: "PitchLab — Business Roleplay Simulator",
+  description:
+    "Practice high-stakes business conversations against AI opponents. Pitch to VCs, negotiate with clients, ace interviews, and more.",
 };
 
 export default function RootLayout({
